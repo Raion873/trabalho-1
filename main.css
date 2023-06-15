@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    background-image: url(assets/hedy-lammar-bck.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    height: 100vh;
+    margin: 0;
+}
+
+main {
+    border: 1px solid black;
+    width: 1024px;
+    margin: 0 auto;
+    padding: 1em
+}
+
+main img {
+    float: left;
+    width: 450px;
+    margin-right: 1em;
+}
+
+main h1 {
+    margin: 0;
+}
